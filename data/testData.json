@@ -1,0 +1,17 @@
+{
+  "URL" : "123",
+  "Login" :{
+   "ValidCredentials": {
+      "username": "Mahmoud",
+      "password" : "123123"},
+    "InvalidCredentials": {
+      "InvalidUserName": {
+      "username": "Mahmoud2",
+      "password": "123123"},
+      "InvalidPassword": {
+      "username": "Mahmoud",
+      "password": "123"
+    }
+  }
+}
+}
